@@ -1,5 +1,5 @@
 # j2script
-
+CHECK THE [WIKI](https://github.com/RobertBedrosian/j2script/wiki) FOR INFORMATION
 Vtables require classes so not doing this week
 Made some changes to grammar and implimented those changes
 
